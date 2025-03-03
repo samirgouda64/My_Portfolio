@@ -63,7 +63,7 @@
     .hero {
         flex-direction: column;
         height: auto;
-        padding: 10% 3%;
+        padding: 30% 3%;
     }
 
     .hero .intro {
