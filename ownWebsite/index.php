@@ -216,8 +216,6 @@
     </div>
 </section>
 
-<h1>hello</h1>
-
     <!-- Footer -->
 <footer class="bg-dark text-white pt-4 pb-2">
     <div class="container text-center text-md-start">
